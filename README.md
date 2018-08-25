@@ -1,58 +1,90 @@
-# 3rd Party Apps & Tools
+# Aplicaciones de 3ros & Herramientas
+
+Hay quienes juegan eve usando la interfaz dada por el juego y hay quienes manipulan los datos y crean herramientas para trabajar dentro del universo de eve. Esto es un intento de mantener una lista actualizada de alguunas de las muchas grandiosas herramientas y aplicaciones 
 
 There are those who play Eve Online using the game's given UI and there are those who manipulate the data and create tools to work within the Eve Online Universe. This is an attempt to keep an updated and maintained list of some of the many great tools and applications.
 
+Proceso para ser listado:
 Process to be listed:
+
+* Crea una Pull Request con el nombre de tu herramienta, la URL (o nombre de la herramienta) de tu herramienta, una categoria en la que deberia ir, y una brebe descripcion de lo que hace.
+* Tu producto deberia ser amistoso con el usuario y estar mas alla de la etapa "beta"
+* si se aprueba sera agregado. 
 
 * Create a Pull Request with the name of your tool, the URL (or app name) of your tool, a category it should go into, and a very brief description of what it does.
 * Your product should be user friendly and beyond "beta" stages.
 * If approved, it will be added! Yay!
 
+Ya que las aplicaciones y sitios web van y bienen trataremos de revisarlas de vez en cuando y mantener la lista actualizada 
 Since Eve apps and websites come and go we will try to check each of the them periodically and keep the list up to date.
 
 ---------
-
+## XML y CREST estan muertos, larga vida ESI
 ## XML and CREST are dead, long live ESI
 
+Es oficial, XML y CREST estan oficialmente muertos con fecha 8 de Mayo,2018. El remplaso ESI esta en efecto y alcanzo pariedad 
 It's official, XML and CREST are officially dead as of May 8th, 2018. The replacement ESI is now in full effect and has reached parity.
 
+#### Discucion ESI
 #### ESI Discussion
+
+Tu puedes participar con los desarrolladores de CCP y desarrolladores de 3ras partes [Uniendote a Tweetfleet en Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) y entrando al canal #esi. Sea educado.
 
 You can participate with CCP devs and third party devs by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into the #esi channel. Do be polite.
 
 ---------
-
+## Herramientas de capsuleer
 ## Capsuleer tools
 
+#### Herramientas Varias 
 #### Various Tools
-* ~~[EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.~~
+
+* [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) es un calculador de DPS y graficador para muchas estadisticas de combate
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
+
+* [EVE Ref](https://everef.net/) - Sitio de referencia de EVE Online con base de datos de items y estadisticas 
 * [EVE Ref](https://everef.net/) - EVE Online reference site with full item database and stats.
+
+* [EVEthing2](https://evething2.skyride.org/) - Herramienta para manejar habilidades y bienes a travez de un gran numero de personajes  [repo](https://github.com/skyride/evething-2)
 * [EVEthing2](https://evething2.skyride.org/) - Toolbox for manage skills and assets across a large number of characters. [repo](https://github.com/skyride/evething-2)
+
+* [GESI](https://github.com/Blacksmoke16/GESI) - Script de Google Sheets para interactuar con ESI.
 * [GESI](https://github.com/Blacksmoke16/GESI) - Google Sheets script to interact with ESI.
+
+* [Clone Guard](https://clone-guard.firebaseapp.com/) - Nunca pierdas otro clon de entrenamiento: Te notidica si olvidaste cambiar al clon correcto
 * [Clone Guard](https://clone-guard.firebaseapp.com/) - Never lose another training clone: Notifies you if you forgot to switch to the right clone
 
+#### Correo EVE
 #### EveMail
+
+* [PodMail](https://podmail.zzeve.com) - PodMail, un cliente ESI de EveMail. Plataforma web compatible con movil para acceder a tus correos de eve
 * [PodMail](https://podmail.zzeve.com) - PodMail, an ESI EveMail client. Mobile friendly web platform for accessing your evemails.
+
+* [Fuzzwork Mail](https://evemail.fuzzwork.co.uk) - Fuzzwork Evemail, un cliente ESI de EveMail. Solo para ver correo, no almacena.
 * [Fuzzwork Mail](https://evemail.fuzzwork.co.uk) - Fuzzwork Evemail, an ESI Evemail client. Clientside based, no storage.
 
 
+#### Herramientas para Fitting
 #### Fitting Tools
+
+* [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  Te permite crear, experimentar, y guardar fitting para tu nave sin estar en el juego.
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
-#### Fitting Tools (Outdated)
-
-While these fitting tools haven't been updated in some time they can still be useful, but use at your own risk.
-
-* ~~[EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016)~~
-* ~~[IGB POS](http://eve.1019.net/pos/index.php) - Old In Game Browers POS builder.  Allows you to set up a POS with fittings to see what you can online all at once.  Has prices and creates a shopping list.~~
-
+#### Herramientas de Flota
 #### Fleet Tools
+
+* [dscan.me](https://dscan.me/) - Dscan, Scaneo local y herramientas de escaneo para flota
 * [dscan.me](https://dscan.me/) - Dscan, Local scan and Fleet scan tools
+
+* [Capri's Tools](https://skyride.org/) - Un conjunto de herramientas de escaneo para flota incluyendo informacion en vivo via ESI
 * [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI
+
+* [Fleet-up](http://fleet-up.com/) - Diseñado para ayudar a corporaciones y alianzas a manejar sus fitting, doctrinas, operacioens, y flotas 
 * [Fleet-up](http://fleet-up.com/) - Designed to help corporations & alliances manage their fittings, doctrines, operations and fleets.
 
+#### Inteligencia
 #### Intel
+
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
 * [SeAT](https://github.com/eveseat/seat) - SeAT is a EVE Online Corporation Management Tool written in PHP.
